@@ -1,0 +1,46 @@
+ul{
+        display: flex;
+        justify-content: center;
+        padding-right: 5px;
+        background-color: rgb(193, 243, 226);
+        padding: 5px;
+        margin: none;
+}
+a{
+    text-decoration: none;
+    color: green;
+    font-weight: 600;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    color: rgba(193, 243, 226, 0.685);
+    background-color: black;
+    padding: 50px;
+}
+li{
+    list-style: none;
+    padding-right: 5px;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+section{
+  text-align: center;
+    background-color: rgb(12, 170, 233);
+  width: 40%;
+  height: 100%;
+}
+aside{
+    background-color: palevioletred;
+    width: 25%;
+    height: 100%;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: greenyellow;
+    padding: 30px;
+}
+
